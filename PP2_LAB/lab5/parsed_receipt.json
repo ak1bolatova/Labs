@@ -1,0 +1,160 @@
+{
+    "company": "ТОО EUROPHRMA Астана",
+    "BIN": "080841000761",
+    "VAT_Serial": "0",
+    "Cash_Register": "300-189",
+    "Shift": "10",
+    "Check_Number": "2331180266",
+    "Cashier": "Аптека 17-1",
+    "items": [
+        {
+            "id": 1,
+            "name": "Натрия хлорид 0,9%, 200 мл, фл",
+            "quantity": 2.0,
+            "unit_price": 154,
+            "total_price": 308
+        },
+        {
+            "id": 2,
+            "name": "Борный спирт 3%, 20 мл, фл.",
+            "quantity": 1.0,
+            "unit_price": 51,
+            "total_price": 51
+        },
+        {
+            "id": 3,
+            "name": "Шприц 2 мл, 3-х комп. (Bioject)",
+            "quantity": 2.0,
+            "unit_price": 16,
+            "total_price": 32
+        },
+        {
+            "id": 4,
+            "name": "Система для инфузии Vogt Medical",
+            "quantity": 2.0,
+            "unit_price": 60,
+            "total_price": 120
+        },
+        {
+            "id": 5,
+            "name": "Naturella прокладки Классик макси №8",
+            "quantity": 1.0,
+            "unit_price": 310,
+            "total_price": 310
+        },
+        {
+            "id": 6,
+            "name": "AURA Ватные диски №150",
+            "quantity": 1.0,
+            "unit_price": 461,
+            "total_price": 461
+        },
+        {
+            "id": 7,
+            "name": "Чистая линия скраб мягкий 50 мл",
+            "quantity": 1.0,
+            "unit_price": 381,
+            "total_price": 381
+        },
+        {
+            "id": 8,
+            "name": "Чистая линия  скраб очищающийабрикос 50 мл",
+            "quantity": 1.0,
+            "unit_price": 386,
+            "total_price": 386
+        },
+        {
+            "id": 9,
+            "name": "Чистая линия скраб мягкий 50 мл",
+            "quantity": 1.0,
+            "unit_price": 381,
+            "total_price": 381
+        },
+        {
+            "id": 10,
+            "name": "Carefree салфетки Алоэвоздухопроницаемые №20",
+            "quantity": 1.0,
+            "unit_price": 414,
+            "total_price": 414
+        },
+        {
+            "id": 11,
+            "name": "Pro Series Шампунь яркий цвет 500мл",
+            "quantity": 1.0,
+            "unit_price": 841,
+            "total_price": 841
+        },
+        {
+            "id": 12,
+            "name": "Pro Series бальзам-ополаскивательдля длител ухода за окрашеннымиволосами Яркий цвет 500мл",
+            "quantity": 1.0,
+            "unit_price": 841,
+            "total_price": 841
+        },
+        {
+            "id": 13,
+            "name": "Clear шампунь Актив спорт 2в1мужской  400 мл",
+            "quantity": 1.0,
+            "unit_price": 1200,
+            "total_price": 1200
+        },
+        {
+            "id": 14,
+            "name": "Bio World (HYDRO THERAPY)Мицеллярная вода 5в1, 445мл",
+            "quantity": 1.0,
+            "unit_price": 1152,
+            "total_price": 1152
+        },
+        {
+            "id": 15,
+            "name": "Bio World (HYDRO THERAPY) Гель-муссдля умывания с гиалуроновойкислотой, 250мл",
+            "quantity": 1.0,
+            "unit_price": 1152,
+            "total_price": 1152
+        },
+        {
+            "id": 16,
+            "name": "[RX]-Натрия хлорид 0,9%, 100 мл, фл.",
+            "quantity": 1.0,
+            "unit_price": 168,
+            "total_price": 168
+        },
+        {
+            "id": 17,
+            "name": "[RX]-Дисоль р-р 400 мл, фл.",
+            "quantity": 1.0,
+            "unit_price": 163,
+            "total_price": 163
+        },
+        {
+            "id": 18,
+            "name": "Тагансорбент с иономи серебра №30,пор.",
+            "quantity": 1.0,
+            "unit_price": 1526,
+            "total_price": 1526
+        },
+        {
+            "id": 19,
+            "name": "[RX]-Церукал 2%, 2 мл, №10, амп.",
+            "quantity": 2.0,
+            "unit_price": 396,
+            "total_price": 792
+        },
+        {
+            "id": 20,
+            "name": "[RX]-Андазол 200 мг, №40, табл.",
+            "quantity": 1.0,
+            "unit_price": 7330,
+            "total_price": 7330
+        }
+    ],
+    "payment_method": "Банковская карта",
+    "total": 18009,
+    "VAT": 0,
+    "timestamp": "18.04.2019 11:13:58",
+    "location": [
+        "Нур-султан,Казахстан, Мангилик Ел",
+        "19",
+        "нп-5"
+    ]
+}
